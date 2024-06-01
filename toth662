@@ -1,0 +1,31 @@
+<html><head><style>
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+</style>
+
+  </head><body><div class="center">
+    <button onclick="window.location.href='https://toth662.bandcamp.com/'">Bandcamp</button>
+    <br>
+    <button onclick="window.location.href='https://www.youtube.com/channel/UCVnk4oqIMIYh8AZX22etXKg'">Youtube</button>
+    <br>
+    <button onclick="window.location.href='https://www.twitch.tv/toth662'">Twitch</button>
+    <br>
+    <button onclick="window.location.href='https://discord.gg/NSmnau6kXJ'">Discord</button>
+    <br>
+    <button onclick="window.location.href='https://twitter.com/toth662'">Twitter</button>
+    <br>
+    <button onclick="window.location.href='https://www.patreon.com/_Toth'">Patreon</button>
+    <br>
+    <button onclick="window.location.href='https://ko-fi.com/tothy'">Kofi</button>
+    <br>
+    <button onclick="window.location.href='https://free-3986925.webador.com/'">Alt</button>
+    <br>
+    <button onclick="window.location.href='https://toth662.carrd.co/'">Alt 2</button>
+  </div>
+</body></html>
